@@ -53,6 +53,9 @@ It enables user registration, candidate enrollment, voting, vote counting, and r
 ### 📈 Result Analysis & Charts
 ![Result Analysis](screenshots/result_analysis.png)
 
+## 🗂️ System Flow Overview
+<img src="screenshots/flowchart.png" width="800"/>
+
 ---
 
 ## 🏗️ Tech Stack
