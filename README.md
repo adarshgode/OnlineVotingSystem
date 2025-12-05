@@ -67,7 +67,7 @@ It enables user registration, candidate enrollment, voting, vote counting, and r
 | Database | MySQL |
 | Connectivity | JDBC |
 | Server | Apache Tomcat 8.5 |
-| Tools | Eclipse / IntelliJ, GitHub |
+| Tools | STS / Eclipse / IntelliJ, GitHub |
 
 ---
 
